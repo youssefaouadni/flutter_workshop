@@ -7,7 +7,7 @@ class ImageWidget extends StatelessWidget {
   final String tags;
   final int downloads;
   final int views;
-  final int likes;
+  final int likes ;
 
   const ImageWidget({
     super.key,
